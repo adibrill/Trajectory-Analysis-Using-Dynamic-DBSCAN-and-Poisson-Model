@@ -1,0 +1,12 @@
+cff-version 1.2.0
+message If you use this software, please cite it as below.
+authors
+  - family-names Brill
+    given-names Adi
+    orcid 
+title Advanced Spatio-Temporal Trajectory Analysis Using Dynamic DBSCAN and Poisson Model for Bird Movement Tracking
+version 1.0.0
+identifiers
+  - type doi
+    value 
+date-released 2024-09-11
