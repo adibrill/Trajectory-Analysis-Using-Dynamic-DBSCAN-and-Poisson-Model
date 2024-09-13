@@ -1,12 +1,23 @@
-cff-version 1.2.0
-message If you use this software, please cite it as below.
-authors
-  - family-names Brill
-    given-names Adi
-    orcid 
-title Advanced Spatio-Temporal Trajectory Analysis Using Dynamic DBSCAN and Poisson Model for Bird Movement Tracking
-version 1.0.0
-identifiers
-  - type doi
-    value 
-date-released 2024-09-11
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Trajectory-Analysis-Using-Dynamic-DBSCAN-and-Poisson-Model
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Adi
+    family-names: Brill
+    email: adibrill15@gmail.com
+repository-code: >-
+  https://github.com/adibrill/Trajectory-Analysis-Using-Dynamic-DBSCAN-and-Poisson-Model
+abstract: >-
+  This study explores an advanced clustering of bird
+  movement trajectories using Geographic Information System
+  (GIS) data, focusing on integrating dynamic EPS
+  parameters, a sliding window approach, and a Poisson model
+  based on time differences and kinematic features.
+version: 1.0.0
+date-released: '2024-08-15'
